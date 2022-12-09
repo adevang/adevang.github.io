@@ -82,12 +82,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Devang Agarwal1"
+  name             : "Devang Agarwal"
   avatar           : "profile.png"
   bio              : | 
-                       Graduate Student 
+                       Graduate Student
+                       
                        University of British Columbia
-  location         : "Location"
+  location         :
   employer         :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
