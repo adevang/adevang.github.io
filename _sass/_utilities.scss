@@ -252,6 +252,11 @@ body:hover .visually-hidden button {
   .fa-stack-overflow {
     color: $stackoverflow-color;
   }
+   
+  .fa-math-exchange,
+  .fa-math-overflow {
+    color: $stackoverflow-color;
+  }   
 
   .fa-tumblr,
   .fa-tumblr-square {
