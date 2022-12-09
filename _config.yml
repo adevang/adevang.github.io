@@ -82,13 +82,10 @@ analytics:
 author:
   name             : "Devang Agarwal"
   avatar           : "profile.png"
-  bio              : >
-    Graduate Student 
-    University of British Columbia
+  bio              : "Graduate Student \n University of British Columbia"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
