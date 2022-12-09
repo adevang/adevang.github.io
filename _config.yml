@@ -77,12 +77,16 @@ analytics:
   google:
     tracking_id          :
 
+#JUST LOOK AT THE STREAM. HOW TF DO I ZOOM IN HERE
+
 
 # Site Author
 author:
   name             : "Devang Agarwal"
   avatar           : "profile.png"
-  bio              : "Graduate Student University of British Columbia"
+  bio              : | 
+    Graduate Student 
+    University of British Columbia
   location         : "Location"
   employer         :
   email            :
