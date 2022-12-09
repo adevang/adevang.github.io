@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Devang Agarwal"
-  avatar           : "profile.png"
+ #avatar           : "profile.png"
   bio              : "Graduate Student University of British Columbia"
   location         : "Location"
   employer         :
