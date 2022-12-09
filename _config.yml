@@ -84,9 +84,9 @@ analytics:
 author:
   name             : "Devang Agarwal"
   avatar           : "profile.png"
-  bio              : "Graduate Student"
+  bio              : "Graduate Student at the University of British Columbia"
   location         :
-  employer         : "University of British Columbia"
+  employer         : 
   email            : "devang@math.ubc.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "adevang"
   google_plus      :
   keybase          :
   instagram        :
@@ -115,6 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  github           : "adevang"
 
 
 # Reading Files
