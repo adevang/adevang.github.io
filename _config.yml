@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Devang Agarwal"
   avatar           : "profile.png"
-  bio              : "Graduate Student\n
-                      \n
-                      University of British Columbia"
+  bio              :  >
+    "This is the 1st row sentence.\n\n\n"
+    "This is the 4th row sentence."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
