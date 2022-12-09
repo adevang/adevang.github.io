@@ -84,12 +84,9 @@ analytics:
 author:
   name             : "Devang Agarwal"
   avatar           : "profile.png"
-  bio              : | 
-                       Graduate Student
-                       
-                       University of British Columbia
+  bio              : "Graduate Student"
   location         :
-  employer         :
+  employer         : "University of British Columbia"
   email            : "devang@math.ubc.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
