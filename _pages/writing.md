@@ -5,7 +5,7 @@ permalink: /writing/
 author_profile: true
 ---
 
-Here is a collection of mathematical writing I have done over the years. Feel free to send me an email about any typos or errors, and hopefully I'll get to fixing them at some point.
+Here is a collection of mathematical writing I have done over the years. Feel free to send me an email about any typos or errors, and I'll get to fixing them at some point.
 
 1. [The Smooth Representation associated
 to an Elliptic Curve](adevang.github.io/files/masters_essay.pdf): My Master's essay. I talk about Local Langlands Correspondence for GL(2), introducing all the categories of representations involved. Later I discuss what the smooth representation associated to an elliptic curve via the LLC looks like.
