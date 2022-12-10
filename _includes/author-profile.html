@@ -43,6 +43,12 @@
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
       {% endif %}
+      {% if author.mathoverflow %}
+        <li><a href="https://mathoverflow.net/users/{{ author.mathoverflow }}"><i class="ai ai-mathoverflow-square ai-fw" aria-hidden="true"></i> MathOverflow</a></li>
+      {% endif %}
+      {% if author.mathstackexchange %}
+        <li><a href="https://math.stackexchange.com/users/{{ author.mathstackexchange }}"><i class="fab fa-fw fa-math-exchange" aria-hidden="true"></i> StackExchange</a></li>
+      {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
       {% endif %}
@@ -69,13 +75,7 @@
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
-      {% endif %}
-      {% if author.mathoverflow %}
-        <li><a href="https://mathoverflow.net/users/{{ author.mathoverflow }}"><i class="ai ai-math-overflow-square" aria-hidden="true"></i> MathOverflow</a></li>
-      {% endif %}
-      {% if author.mathstackexchange %}
-        <li><a href="https://math.stackexchange.com/users/{{ author.mathstackexchange }}"><i class="fab fa-fw fa-math-exchange" aria-hidden="true"></i> StackExchange</a></li>
-      {% endif %}
+      {% endif %} 
       {% if author.lastfm %}
         <li><a href="https://lastfm.com/user/{{ author.lastfm }}"><i class="fab fa-fw fa-lastfm-square" aria-hidden="true"></i> Last.fm</a></li>
       {% endif %}
