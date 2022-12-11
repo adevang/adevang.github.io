@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Devang's Homepage"
 title_separator          : "-"
 name                     : &name "Devang Agarwal"
 description              : &description "personal description"
