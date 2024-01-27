@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Devang, a master's student at the University of British Columbia. I'm interested in most things number theory but some more specific phrases of interest include Galois representations, Automorphic forms, Shimura varieties and the Langlands program.
+Hi! I am Devang, a PhD student at Concordia University under Adrian Iovita and Giovanni Rosso. I'm interested in most things number theory and am currently learning about p-adic modular forms.
 
 Here is my [CV](https://adevang.github.io/files/CV.pdf).
