@@ -14,6 +14,6 @@ to an Elliptic Curve](adevang.github.io/files/masters_essay.pdf): My Master's es
 
 3. [Cech Cohomology](https://adevang.github.io/files/Cech_Cohomology.pdf): End of term project for a course on Algebraic Topology. I define Cech cohomology and use it to establish the de Rham isomorphism.
 
-4. [The Riemann-Roch Theorem](https://adevang.github.io/files/Riemann_Roch.pdf): End of term project for a course on Compact Reimann Surfaces. I give an exposition of George Kempf's proof of the Riemann Roch theorem.
+4. [The Riemann-Roch Theorem](https://adevang.github.io/files/Riemann_Roch.pdf): End of term project for a course on Compact Riemann Surfaces. I give an exposition of George Kempf's proof of the Riemann Roch theorem.
 
 5. [Class Number Formula](https://adevang.github.io/files/Class_number_formula.pdf) and [Prime Ideal Races](https://adevang.github.io/files/Prime_Ideal_Races.pdf): Slides from presentations for a topics course in analytic number theory. I talk about the analytic class number formula and generalizations of Chebyshev's bias to prime ideals of rings of integers.
