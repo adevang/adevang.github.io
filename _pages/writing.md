@@ -8,7 +8,7 @@ author_profile: true
 Here is a collection of mathematical writing I have done over the years. Feel free to send me an email about any typos or errors, and I'll get to fixing them at some point.
 
 1. [The Smooth Representation associated
-to an Elliptic Curve](adevang.github.io/files/masters_essay.pdf): My Master's essay. I talk about Local Langlands Correspondence for GL(2), introducing all the categories of representations involved. Later I discuss what the smooth representation associated to an elliptic curve via the LLC looks like.
+to an Elliptic Curve](https://adevang.github.io/files/masters_essay.pdf): My Master's essay. I talk about Local Langlands Correspondence for GL(2), introducing all the categories of representations involved. Later I discuss what the smooth representation associated to an elliptic curve via the LLC looks like.
 
 2. [The Fundamental Class](https://adevang.github.io/files/fundamental_class.pdf): End of term project for a course on Global Class Field Theory. I establish the existence of the fundamental class and the fundamental exact sequence of class field theory for number fields. Assumes local class field theory and the first and second inequalities.
 
